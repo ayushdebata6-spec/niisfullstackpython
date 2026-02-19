@@ -1,0 +1,5 @@
+print("e"in "hello")
+print("x"in "hello")
+print("x"not in "hello")
+print(10 in [10,20,30])
+print(10 not in[20,30,40])
